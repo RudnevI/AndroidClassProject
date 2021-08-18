@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+
+    <string name="nav_to_secondary">To secondary activity</string>
+    <string name="nav_to_main">To main activity</string>
+
+</resources>
